@@ -66,8 +66,8 @@ The **AI Buyer Persona Email Orchestrator** automates persona-based outbound ema
 
 ---
 
-## 📸 Workflow Screenshot  
-[View Workflow Screenshot](https://zapier.com/app/canvas/public/e8166244-f6a3-4ee5-b70d-9263892ce4bf)
+## 📸 Workflow  
+[View Workflow](https://zapier.com/app/canvas/public/e8166244-f6a3-4ee5-b70d-9263892ce4bf)
 
 
 ## 📎 Author

@@ -1,6 +1,6 @@
 # 🤖 AI Buyer Persona Email Orchestrator
 
-![Workflow Overview](https://img.shields.io/badge/Zapier-Automation-orange) ![AI Powered](https://img.shields.io/badge/AI-GPT--5o--mini-blue) ![Status](https://img.shields.io/badge/Status-Production--Ready-green)
+![Workflow Overview](https://img.shields.io/badge/Zapier-Automation-orange) ![AI Powered](https://img.shields.io/badge/AI-GPT--4o--mini-blue) ![Status](https://img.shields.io/badge/Status-Production--Ready-green)
 
 ## 🧭 Overview
 The **AI Buyer Persona Email Orchestrator** automates persona-based outbound email generation. Instead of relying on external signals, it uses predefined persona intelligence stored in **Zapier Tables** to personalize tone, structure, and value messaging.

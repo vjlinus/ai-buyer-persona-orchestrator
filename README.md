@@ -7,7 +7,7 @@ The **AI Buyer Persona Email Orchestrator** automates persona-based outbound ema
 
 ## 🚀 Try It Live
 
-**[➤ Submit Your Persona](https://form.typeform.com/to/feMzUwMV)**
+**[➤ Submit Your Persona](https://tally.so/r/LZP7j1)**
 
 
 **Outcome:** Reduces email drafting time by ~70%  
